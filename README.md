@@ -47,4 +47,4 @@ python calories_calculator.py
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**
+Developed by Monty
